@@ -55,5 +55,3 @@ Best model: **Random Forest** (54.00%)
 
 ![Confusion matrices](results/confusion_matrices.png)
 
-## Screenshots
-Add a screenshot of the Streamlit app here, for example: `![App](screenshots/app.png)`
