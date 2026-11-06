@@ -55,3 +55,5 @@ Best model: **Random Forest** (54.00%)
 
 ![Confusion matrices](results/confusion_matrices.png)
 
+##Screenshot
+![Streamlit app](screenshots/app.png)
